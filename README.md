@@ -9,10 +9,17 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 2. [HTML](#html)
 3. [GIT](#git)
 4. [JavaScript](#javascript)
+5. [React](#react)
+6. [SQL](#sql)
 
 # Roadmaps and guides
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+- [Developer Handbook](https://github.com/apptension/developer-handbook)
+- [30 Seconds of Code](https://www.30secondsofcode.org/)
 
 # HTML
+- [Browser HTML5 Test](http://html5test.com/index.html)
+- [W3C Markup Validation](https://validator.w3.org/)
 
 # CSS
 - [CSS Battle](https://cssbattle.dev/)
@@ -31,3 +38,13 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [W3Schools](https://www.w3schools.com/js/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript 30](https://javascript30.com/)
+
+# React
+- [FreeCodeCamp Full React Course with Projects](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=28852s)
+
+# SQL
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [Codecademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
