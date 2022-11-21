@@ -48,3 +48,4 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 # SQL
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
 - [Codecademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [Academind SQL Crash Course](https://www.youtube.com/watch?v=DWtQU8VP3Hg)
