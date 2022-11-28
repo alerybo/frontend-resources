@@ -1,10 +1,10 @@
 
 
-# Frontend Resources
+## Frontend Resources
 
 Links to resources useful on frontend dev learning path. Some of them helped me wrap my head around new technologies and some I still use on a daily basis!
 
-## Table of contents
+# Table of contents
 1. [Roadmaps and guides](#roadmaps-and-guides)
 2. [HTML](#html)
 3. [GIT](#git)
@@ -37,6 +37,7 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 # JavaScript
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [W3Schools](https://www.w3schools.com/js/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
