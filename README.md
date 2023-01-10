@@ -35,6 +35,7 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 - [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [Neumorphism generator](https://www.joshwcomeau.com/gradient-generator/)
 ## Tailwind CSS
+- [Tailwind Docs](https://tailwindcss.com/docs/installation)
 - [Tailwind Components](https://tailwindcomponents.com/)
 - [Tailblocks](https://tailblocks.cc/)
 - [Meraki UI](https://merakiui.com/)
