@@ -55,6 +55,7 @@ Links to resources useful on frontend dev learning path. Some of them helped me 
 - [JavaScript 30](https://javascript30.com/)
 
 # 6. React
+- [React Documentation](https://reactjs.org/)
 - [FreeCodeCamp Full React Course with Projects](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=28852s)
 
 # 7. SQL
